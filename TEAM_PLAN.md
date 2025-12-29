@@ -46,11 +46,11 @@ Win the "Hack the Horizon" challenge by demonstrating a scientifically valid, ed
 ## 📅 Execution Roadmap
 
 ### Phase 1: Solidify (Days 1-2)
-*   **Tech:** Fix any bugs in `utils.py`. Generate the "Golden Dataset" (2000 samples).
-*   **Science:** Prove ZNE vs. AI diff (get that "1.81x improvement" chart solid).
+*   **Tech:** Fix any bugs in `utils.py`. Generate the "Golden Dataset" (>=2000 samples).
+*   **Science:** Prove ZNE vs. AI diff (get that ">1 improvement" chart solid).
 
 ### Phase 2: Polish (Day 3)
-*   **Education:** Add markdown explanations to all cells. "If a high schooler can't get it, rewrite it."
+*   **Education:** Add markdown explanations to all cells, when needed."
 *   **UI:** Make the charts pretty (Matplotlib themes, clear legends).
 
 ### Phase 3: Ship (Final Day)
